@@ -1,2 +1,2 @@
 This is file A line 1
-line added in feature2 branchwqffe
+line added in feature2 branchwqff
